@@ -10,7 +10,6 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-
 public class MyActivity extends Activity {
 
     private Spinner mEnglishSpinner;

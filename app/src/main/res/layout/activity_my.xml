@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:orientation="vertical">
+
+    <Spinner android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+        android:id="@+id/english_club">
+
+    </Spinner>
+
+    <Spinner android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="16dp"
+             android:id="@+id/thai_club">
+
+    </Spinner>
+
+    <Spinner android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="16dp"
+             android:id="@+id/spinner_menu">
+
+    </Spinner>
+
+</LinearLayout>
